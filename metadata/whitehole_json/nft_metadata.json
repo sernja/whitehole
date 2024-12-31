@@ -1,0 +1,10 @@
+{
+    "name": "Then new token",
+    "symbol": "TNT",
+    "image": "https://raw.githubusercontent.com/sernja/whitehole/refs/heads/main/metadata/whitehole_image/thenewtoken.jpg",
+    "properties": {
+        "conversionPrice": 1.5,
+        "bondAmount": 100,
+        "expiryDate": "2025-12-31"
+    }
+}
